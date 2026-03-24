@@ -45,10 +45,3 @@ Analysed **264,000+** chip transactions to understand customer purchasing behavi
 ---
 
 You can now copy the short description when creating the repo, and the full README above when you add the `README.md` file.
-
-Would you like me to:
-- Make it shorter?
-- Make it more technical?
-- Add your name / LinkedIn / contact info?
-
-Just tell me your preferred style and I’ll adjust it instantly!
